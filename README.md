@@ -80,8 +80,6 @@ Claude will do it. Then your job starts. Ask yourself, and ask Claude:
 
 - How many firm-years did not get a shock? How many industries is that?
 - Why did they not match? Is the shock missing for those industries?
-- Which vintage is each file in? The lists in `data/naics_vintages/` let you
-  check every code against every vintage.
 - What should be done with the firm-years that did not match: drop them, leave
   the shock missing, or translate their codes with a concordance?
 - Is the panel really one row per firm and year? If not, why not, and which
