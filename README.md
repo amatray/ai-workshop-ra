@@ -18,6 +18,8 @@ data/
     naics_YYYY_codes.csv      the official list of 6-digit NAICS codes in each vintage
                               (1997, 2002, 2007, 2012, 2017, 2022)
     concordance_A_to_B.csv    the official crosswalk from one NAICS vintage to the next
+slides/
+  intro_ai_ra.pdf             the workshop slides
 ```
 
 SIC is the Standard Industrial Classification, the older United States industry
